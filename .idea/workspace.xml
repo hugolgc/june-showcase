@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="752b21ea-73c4-453f-8a4e-0911d62e18c0" name="Changes" comment="Docker updated" />
+    <list default="true" id="752b21ea-73c4-453f-8a4e-0911d62e18c0" name="Changes" comment="Docker updated">
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.Docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729116826061</updated>
-      <workItem from="1729116829312" duration="1202000" />
+      <workItem from="1729116829312" duration="1406000" />
     </task>
     <task id="LOCAL-00001" summary="Docker added">
       <option name="closed" value="true" />
@@ -80,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729118393502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Docker updated">
+      <option name="closed" value="true" />
+      <created>1729118514980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729118514981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
