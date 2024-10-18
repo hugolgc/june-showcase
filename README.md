@@ -5,6 +5,6 @@ Le projet **June Showcase** est développé avec **NextJS**. Pour configurer et 
 #### Étapes à suivre :
 
 1.  Consultez la documentation complète pour la configuration locale et le lancement de June Showcase ici :  
-    [Guide d'installation de June Showcase](https://github.com/hugolgc/june/blob/main/README.md)
+    [Guide d'installation de June](https://github.com/hugolgc/june/blob/main/README.md)
     
 2.  Assurez-vous que tous les prérequis sont bien respectés, notamment Docker et les configurations de l'environnement nécessaires.
