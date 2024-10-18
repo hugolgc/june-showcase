@@ -1,3 +1,24 @@
 {
-    "extends": ["next/core-web-vitals", "next/typescript"]
+    "extends": ["next/core-web-vitals", "next/typescript"],
+    "rules": {
+        "eqeqeq": "error",
+        "no-implicit-coercion": "error",
+        "@typescript-eslint/no-inferrable-types": "off",
+        "@typescript-eslint/no-extraneous-class": "off",
+        "@typescript-eslint/explicit-function-return-type": "error",
+        "@typescript-eslint/explicit-member-accessibility": "error",
+        "@typescript-eslint/explicit-module-boundary-types": "error",
+        "@typescript-eslint/typedef": [
+            "error",
+            {
+                "parameter": true,
+                "arrowParameter": false,
+                "arrayDestructuring": true,
+                "objectDestructuring": true,
+                "propertyDeclaration": true,
+                "variableDeclaration": true,
+                "memberVariableDeclaration": true
+            }
+        ]
+    }
 }
